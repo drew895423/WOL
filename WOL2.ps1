@@ -1,4 +1,4 @@
-function Invoke-WakeOnLan
+﻿function Invoke-WakeOnLan
 {
   param
   (
